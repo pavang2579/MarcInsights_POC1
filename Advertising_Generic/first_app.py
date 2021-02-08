@@ -4,7 +4,7 @@ import json
 
 
 
-data = pd.read_csv('/Users/shivaneeprajapati/PycharmProjects/Download/datasetfiles/df_final.csv',index_col=None)
+data = pd.read_csv('/datasetfiles/df_final.csv',index_col=None)
 print(data.head())
 data = pd.DataFrame(data).fillna(0)
 data = data.drop(data.columns[0],axis=1)
