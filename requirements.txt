@@ -33,6 +33,7 @@ pyobjc-framework-Collaboration==2.5.1
 pyobjc-framework-CoreData==2.5.1
 pyobjc-framework-CoreLocation==2.5.1
 pyobjc-framework-CoreText==2.5.1
+pywin32==300
 pyobjc-framework-DictionaryServices==2.5.1
 pyobjc-framework-EventKit==2.5.1
 pyobjc-framework-ExceptionHandling==2.5.1
